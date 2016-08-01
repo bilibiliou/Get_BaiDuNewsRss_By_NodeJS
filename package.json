@@ -1,0 +1,27 @@
+{
+  "name": "Get_BaiDuNewsRss_By_NodeJS",
+  "version": "1.0.0",
+  "description": "Get daily news from baidu rss_api by nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Owen <469564715@qq.com> (http://numerhero.github.io/)",
+  "dependencies": {
+    "eventproxy": "",
+    "superagent": "",
+    "superagent-charset": "",
+    "feedparser": "",
+    "iconv-lite": "",
+    "mongoose": ""
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NumerHero/Get_BaiDuNewsRss_By_NodeJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NumerHero/Get_BaiDuNewsRss_By_NodeJS/issues"
+  },
+  "homepage": "https://github.com/NumerHero/Get_BaiDuNewsRss_By_NodeJS#readme"
+}
